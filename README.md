@@ -1,2 +1,15 @@
-# ai-response-evaluation-practice
-A collection of practice exercises demonstrating AI response evaluation, factual accuracy, reasoning, safety, and bias assessment.
+
+AI Response Evaluation Practice
+About this Portfolio
+This repository contains independent practice exercises in AI response evaluation.
+The exercises demonstrate my ability to assess:
+Factual accuracy
+Clarity and relevance
+Logical reasoning
+Safety and potential harm
+Bias and fairness
+Instruction-following
+Background
+I have a background in nursing and healthcare, with an interest in applying critical thinking, written communication and analytical skills to AI evaluation.
+Purpose
+To develop practical skills in evaluating AI-generated responses and identifying opportunities for improvement.
